@@ -1,0 +1,4 @@
+Agentic AI Engineer
+We are hiring an Agentic AI Engineer to design multi-agent workflows, build RAG applications, integrate LLM tools, deploy Python services, and collaborate with product stakeholders.
+The role requires Python, Streamlit or FastAPI, prompt engineering, retrieval augmented generation, cloud deployment, API design, testing, and strong communication.
+Experience in banking, compliance, or risk analytics is a plus.
