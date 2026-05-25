@@ -28,8 +28,19 @@ Install Python 3.11 or newer for free from https://www.python.org/downloads/ if 
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
+pip install streamlit
 streamlit run app.py
 ```
+
+## Free deployment
+
+1. Push this folder to a public GitHub repository.
+2. Go to Streamlit Community Cloud: https://streamlit.io/cloud
+3. Create a free account and choose **New app**.
+4. Select your repository, branch, and `app.py`.
+5. Click **Deploy**.
+
+No paid API keys are required. Streamlit Community Cloud installs Streamlit for hosted apps, so `requirements.txt` only lists the extra libraries used for PDF and DOCX parsing.
 
 ## Resume bullets you can use
 

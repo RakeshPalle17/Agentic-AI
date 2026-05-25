@@ -32,4 +32,5 @@ if errorlevel 1 (
 
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+pip install streamlit
 streamlit run app.py
